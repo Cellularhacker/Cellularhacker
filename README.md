@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Cellularhacker&show_icons=true&hide_border=true&count_private=true)](https://github.com/Cellularhacker)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Cellularhacker&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Cellularhacker)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cellularhacker&layout=compact)](https://github.com/shinplest)
