@@ -1,4 +1,7 @@
 ### Hello, This is Cellularhacker! 👋
+
+Notion Profile -> [Click here!](https://bit.ly/cellularhacker-profile)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCellularhacker)](https://hits.seeyoufarm.com)
 
 <!--
